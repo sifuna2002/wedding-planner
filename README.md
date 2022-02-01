@@ -1,2 +1,2 @@
 # wedding-planner
-Live preview at https://sifuna2002.github.io/wedding-planner/
+Live preview at sifuna-wedding-planner.000webhostapp.com

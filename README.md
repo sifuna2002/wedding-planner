@@ -1,2 +1,2 @@
 # wedding-planner
-Live preview at sifuna-wedding-planner.000webhostapp.com
+Live preview at https://sifuna-wedding-planner.000webhostapp.com/

@@ -22,11 +22,11 @@
 
       <div class="box">
          <h3>contact info</h3>
-         <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
-         <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
-         <a href="#"> <i class="fas fa-envelope"></i> anasbhai@gmail.com </a>
-         <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
+         <a href="#"> <i class="fas fa-phone"></i> +254-7570-81189 </a>
+         <a href="#"> <i class="fas fa-phone"></i> +254-748-14559 </a>
+         <a href="#"> <i class="fas fa-envelope"></i> sifuna001@gmail.com </a>
+         <a href="#"> <i class="fas fa-envelope"></i> sifunadone4704@gmail.com </a>
+         <a href="#"> <i class="fas fa-map"></i> Nairobi, Kenya </a>
       </div>
 
       <div class="box">

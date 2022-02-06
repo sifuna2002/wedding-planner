@@ -40,6 +40,6 @@
 
    </div>
 
-   <p class="credit"> created by <span>mr. web designer</span> | all rights reserved! </p>
+   <p class="credit"> created by <span>sifuna</span> | all rights reserved! </p>
 
 </section>
